@@ -1,0 +1,42 @@
+{
+  "src": "audio/candidates/music_a/pixabay_moonpetalmedia_the_light_between_moments.mp3",
+  "out": "audio/edit/edit_1.wav",
+  "total": 30,
+  "master_gain_db": -3,
+  "limiter_dbfs": -1,
+  "end_fade": {
+    "start": 27.6,
+    "end": 30,
+    "curve": "qsin"
+  },
+  "segments": [
+    {
+      "src_start": 0.35,
+      "src_end": 5.53,
+      "dst_start": 0,
+      "fade_in_ms": 30,
+      "fade_out_ms": 250
+    },
+    {
+      "src_start": 178.5,
+      "src_end": 189.805,
+      "dst_start": 5.97,
+      "fade_in_ms": 20,
+      "fade_out_ms": 60
+    },
+    {
+      "src_start": 135.38,
+      "src_end": 142.665,
+      "dst_start": 17.215,
+      "fade_in_ms": 60,
+      "fade_out_ms": 800
+    },
+    {
+      "src_start": 197.15,
+      "src_end": 203.45,
+      "dst_start": 23.7,
+      "fade_in_ms": 400,
+      "fade_out_ms": 0
+    }
+  ]
+}

@@ -1,0 +1,488 @@
+{
+  "chosen": 1,
+  "chosen_reason": "Edit 1 (The Light Between Moments) has the strongest real sync: a real soft opening with a piano motif at 3.03, a massive low tutti hit out of digital silence measured at 6.00, a driving 117 BPM tail through about 9, a written ii7-V7 suspension and swell (15.4-16.8) into the brightest Bb tutti at 17.28, a strong bar accent at 20.74, and the composer's own big warm final Bb chord measured at 25.50 that rings out. It also has a clean licence (Pixabay, not Content ID registered, no attribution required). Edit 2 (Discover, Mixkit) is the backup: clean licence, simple 2-splice edit, a real entry at 6.00 and a real G arrival at 25.50 with natural ring-out, but no 3.0 motif, a gentler legato pulse and an earlier descent.",
+  "render_format": "48 kHz, stereo, 24-bit PCM WAV; 1,440,000 samples = 30.000 s (verified with ffprobe); rendered with one ffmpeg process at -threads 1",
+  "timing_accuracy_note": "Times are in the final 30.0 s film timeline. Hits and arrivals are measured on the rendered WAV (20 ms RMS and low-band rise), about +/-0.02 s. Beat times come from spectral-flux onsets with attack correction, about +/-0.03 s for edit 1 and +/-0.05 s for edit 2, which is legato and slightly rubato.",
+  "edits": [
+    {
+      "id": 1,
+      "file": "audio/edit/edit_1.wav",
+      "source_file": "audio/candidates/music_a/pixabay_moonpetalmedia_the_light_between_moments.mp3",
+      "source_title": "The Light Between Moments | Dreamy Cinematic Instrumental",
+      "source_author": "MoonpetalMedia",
+      "source_page_url": "https://pixabay.com/music/orchestral-the-light-between-moments-dreamy-cinematic-instrumental-588189/",
+      "license": "Pixabay Content License (https://pixabay.com/service/license-summary/): free for commercial and non-commercial use, no attribution required. Not Content ID registered (per the candidate manifest).",
+      "attribution": "Not required. Optional credit: \"The Light Between Moments | Dreamy Cinematic Instrumental\" by MoonpetalMedia via Pixabay",
+      "key": "Bb major",
+      "segments": [
+        {
+          "src_start": 0.35,
+          "src_end": 5.53,
+          "dst_start": 0,
+          "dst_end": 5.18,
+          "fade_in_ms": 30,
+          "fade_out_ms": 250,
+          "note": "real opening: soft pad swell, piano motif src 3.385 -> dst 3.03; the fade is the hard drop at 4.93-5.18"
+        },
+        {
+          "src_start": 178.5,
+          "src_end": 189.805,
+          "dst_start": 5.97,
+          "dst_end": 17.275,
+          "fade_in_ms": 20,
+          "fade_out_ms": 60,
+          "note": "5.18-5.97 is digital silence; massive low tutti hit src 178.53 -> dst 6.00; tail section about 117 BPM, Cm7 rise, suspension and F7 swell"
+        },
+        {
+          "src_start": 135.38,
+          "src_end": 142.665,
+          "dst_start": 17.215,
+          "dst_end": 24.5,
+          "fade_in_ms": 60,
+          "fade_out_ms": 800,
+          "note": "60 ms crossfade: F7 resolves into the plateau's Bb cadence arrival src 135.44 -> dst 17.28; 800 ms fade out = the descent"
+        },
+        {
+          "src_start": 197.15,
+          "src_end": 203.45,
+          "dst_start": 23.7,
+          "dst_end": 30,
+          "fade_in_ms": 400,
+          "fade_out_ms": 0,
+          "note": "quiet ritardando piano over a Bb pedal fades in under the plateau; final Bb(maj7) chord src 198.95 -> dst 25.50"
+        }
+      ],
+      "master": {
+        "gain_db": -3,
+        "end_fade": {
+          "start": 27.6,
+          "end": 30,
+          "curve": "qsin"
+        },
+        "limiter_dbfs": -1,
+        "limiter_engaged": false,
+        "segment_fade_curve": "qsin (equal power)",
+        "time_stretch": "none",
+        "pitch_shift": "none"
+      },
+      "measured": {
+        "integrated_lufs": -17.1,
+        "lra_lu": 7.2,
+        "true_peak_dbfs": -4.5,
+        "hit_6_00": "digital silence until 5.95; 20 ms RMS -38 dB at 5.96, -12 dB at 6.00, -9.5 dB at 6.02; low band (<200 Hz) rises from -120 dB to -15 dB by 6.00",
+        "final_chord_25_50": "quiet piano at -31 dB until 25.48, then -18.5 dB at 25.50 and -11 dB at 25.52; low band rises by 44 dB"
+      },
+      "beat_grid_dst": [
+        3.03,
+        3.47,
+        3.9,
+        4.33,
+        4.76,
+        6,
+        6.51,
+        7.02,
+        7.52,
+        8.03,
+        8.53,
+        9.04,
+        9.56,
+        10.06,
+        10.57,
+        11.08,
+        11.59,
+        12.1,
+        12.62,
+        13.13,
+        13.64,
+        14.16,
+        14.69,
+        15.21,
+        15.74,
+        16.25,
+        16.76,
+        17.28,
+        17.71,
+        18.14,
+        18.58,
+        19.01,
+        19.44,
+        19.88,
+        20.31,
+        20.74,
+        21.18,
+        21.61,
+        22.04,
+        22.48,
+        22.91,
+        23.34,
+        23.78,
+        24.21
+      ],
+      "beat_grid_info": [
+        {
+          "from": 3.03,
+          "to": 5.18,
+          "period_s": 0.436,
+          "bpm": 137.5,
+          "what": "opening piano motif eighths (soft)"
+        },
+        {
+          "from": 6,
+          "to": 17.27,
+          "period_s": 0.511,
+          "bpm": 117.4,
+          "what": "tail section beats after the hit; articulated 6.0-15.7, implied through the sustained suspension (16.25, 16.76 = F7 swell)"
+        },
+        {
+          "from": 17.28,
+          "to": 24.21,
+          "period_s": 0.4334,
+          "bpm": 138.4,
+          "what": "plateau eighth-note pulse (quarter = 69.2 BPM is every other value starting 17.28; bar downbeats 17.28, 20.74, 24.21)"
+        },
+        {
+          "from": 24.5,
+          "to": 30,
+          "period_s": null,
+          "bpm": null,
+          "what": "no grid: quiet ritardando piano, then the final chord at 25.50 (off-grid) and its ring-out"
+        }
+      ],
+      "accents_dst": [
+        3.03,
+        6,
+        14.16,
+        16.79,
+        17.28,
+        20.74,
+        22.89,
+        25.5
+      ],
+      "accents_detail": [
+        {
+          "t": 3.03,
+          "what": "piano motif enters (small celesta/piano slot)"
+        },
+        {
+          "t": 6,
+          "what": "MAIN HIT: massive low tutti out of silence (strongest onset of the edit)"
+        },
+        {
+          "t": 14.16,
+          "what": "Cm7 rise: strong onset with low-end re-entry (+5 dB); serves as the lift (2 s later than the 12.2 target)"
+        },
+        {
+          "t": 16.79,
+          "what": "F7 swell begins (riser into the reveal)"
+        },
+        {
+          "t": 17.28,
+          "what": "bright tutti Bb arrival: vast reveal"
+        },
+        {
+          "t": 20.74,
+          "what": "bar-downbeat accent inside the plateau (second peak, 20.8 target)"
+        },
+        {
+          "t": 22.89,
+          "what": "strong eighth-note accent before the descent"
+        },
+        {
+          "t": 25.5,
+          "what": "FINAL big warm Bb(maj7) chord (resolution)"
+        }
+      ],
+      "sections_dst": [
+        {
+          "start": 0,
+          "end": 3.03,
+          "label": "intro: very soft pad swell (first sustained tone audible from about 0.5, -50 to -35 dB)"
+        },
+        {
+          "start": 3.03,
+          "end": 5.18,
+          "label": "piano motif (eighths), fade 4.93-5.18"
+        },
+        {
+          "start": 5.18,
+          "end": 5.97,
+          "label": "hard drop: digital silence"
+        },
+        {
+          "start": 6,
+          "end": 9,
+          "label": "MAIN HIT and driving tutti (117 BPM): energy for the meadow chase"
+        },
+        {
+          "start": 9,
+          "end": 14.16,
+          "label": "thinner, wonder: energy recedes to -20 to -25 dB, pulse continues"
+        },
+        {
+          "start": 14.16,
+          "end": 15.4,
+          "label": "rise (Cm7, low end returns)"
+        },
+        {
+          "start": 15.4,
+          "end": 16.79,
+          "label": "suspension (sustained)"
+        },
+        {
+          "start": 16.79,
+          "end": 17.28,
+          "label": "F7 swell / riser"
+        },
+        {
+          "start": 17.28,
+          "end": 23.7,
+          "label": "vast reveal: bright soaring Bb tutti plateau; accent 20.74"
+        },
+        {
+          "start": 23.7,
+          "end": 24.5,
+          "label": "descent: plateau fades under quiet piano over a Bb pedal"
+        },
+        {
+          "start": 24.5,
+          "end": 25.5,
+          "label": "breath: quiet piano (-32 dB), pickups at about 25.16, 25.25, 25.38"
+        },
+        {
+          "start": 25.5,
+          "end": 27.6,
+          "label": "FINAL RESOLUTION: big warm Bb chord, natural ring (-13 to -17 dB)"
+        },
+        {
+          "start": 27.6,
+          "end": 30,
+          "label": "ring-out, quarter-sine fade to silence"
+        }
+      ],
+      "notes": "Strengths: the hit at 6.00 and the final chord at 25.50 are both real source events, measured on the render and visible in the spectrograms. 4 segments, no stretch or pitch shift. Gaps against the brief: there is no distinct lift at 12.2 (the energy is still thinning there; the rise comes at 14.16). The tempo feel changes at 17.28 (117 BPM tail to the 138 BPM eighth pulse of the plateau, 69 BPM quarters); the change is masked by the F7 swell and arrival. 20.74 is a strong bar accent inside a continuous plateau, not a separate hit. The descent (23.7-24.5) is an 800 ms edit fade from the plateau into the quiet piano that precedes the final chord in the source. The source mp3 decodes above 0 dBFS, so the render uses -3 dB gain; the -1 dBFS limiter never engages (true peak -4.5 dBFS). Nobody has listened to the edit yet."
+    },
+    {
+      "id": 2,
+      "file": "audio/edit/edit_2.wav",
+      "source_file": "audio/candidates/music_a/mixkit_eugenio_mininni_discover.mp3",
+      "source_title": "Discover",
+      "source_author": "Eugenio Mininni",
+      "source_page_url": "https://mixkit.co/free-stock-music/tag/orchestral/",
+      "license": "Mixkit Stock Music Free License (https://mixkit.co/license/#musicFree): free for commercial and non-commercial use in video projects, no attribution required. Not listed as Content ID registered.",
+      "attribution": "Not required. Optional credit: \"Discover\" by Eugenio Mininni via Mixkit",
+      "key": "D minor / F major main section; intro arrival on G",
+      "segments": [
+        {
+          "src_start": 0.8,
+          "src_end": 6,
+          "dst_start": 0,
+          "dst_end": 5.2,
+          "fade_in_ms": 0,
+          "fade_out_ms": 250,
+          "note": "crystalline A-major pad, src 1.3 -> dst 0.5; small swell at 4.65; fade = hard drop at 4.95-5.20"
+        },
+        {
+          "src_start": 37.88,
+          "src_end": 54.91,
+          "dst_start": 5.96,
+          "dst_end": 22.99,
+          "fade_in_ms": 30,
+          "fade_out_ms": 250,
+          "note": "5.20-5.96 digital silence; big Dm tutti entry src 37.92 -> dst 6.00; ends just before the C/E bar"
+        },
+        {
+          "src_start": 10.95,
+          "src_end": 18.3,
+          "dst_start": 22.749,
+          "dst_end": 30,
+          "fade_in_ms": 250,
+          "fade_out_ms": 0,
+          "note": "250 ms F-to-F crossfade into the intro's own crescendo; C bass src 12.962 -> dst 24.76; G arrival src 13.701 -> dst 25.50; output trimmed at 30.0"
+        }
+      ],
+      "master": {
+        "gain_db": -3,
+        "end_fade": {
+          "start": 29,
+          "end": 30,
+          "curve": "qsin"
+        },
+        "limiter_dbfs": -1,
+        "limiter_engaged": false,
+        "segment_fade_curve": "qsin (equal power)",
+        "time_stretch": "none",
+        "pitch_shift": "none"
+      },
+      "measured": {
+        "integrated_lufs": -16.9,
+        "lra_lu": 5.8,
+        "true_peak_dbfs": -5.7,
+        "hit_6_00": "digital silence until 5.95; 20 ms RMS -36 dB at 5.96, -15.6 dB at 6.00 (about +25 dB over the -40 dB pad); low band rises to -18 dB by 6.00",
+        "final_chord_25_50": "C crescendo at about -17 dB, then -13.2 dB at 25.50 with a fuller low end (+8 dB low band); 24.76 C bass entry is +9 dB over the -26 dB pad"
+      },
+      "beat_grid_dst": [
+        6,
+        6.73,
+        7.47,
+        8.17,
+        8.78,
+        9.59,
+        10.33,
+        11.02,
+        11.7,
+        12.42,
+        13.14,
+        13.86,
+        14.58,
+        15.23,
+        15.91,
+        16.71,
+        17.38,
+        18.05,
+        18.78,
+        19.49,
+        20.2,
+        20.9,
+        21.6,
+        22.3
+      ],
+      "beat_grid_info": [
+        {
+          "from": 0,
+          "to": 5.96,
+          "period_s": null,
+          "bpm": null,
+          "what": "no grid: sustained pad"
+        },
+        {
+          "from": 6,
+          "to": 22.75,
+          "period_s": 0.708,
+          "bpm": 84.7,
+          "what": "legato pulse with slight rubato; bar downbeats (4 beats) at 6.00, 8.78, 11.70, 14.58, 17.38, 20.20; individual beats can drift about +/-0.05 from an even grid"
+        },
+        {
+          "from": 22.75,
+          "to": 30,
+          "period_s": null,
+          "bpm": null,
+          "what": "pulse stops: pad, crescendo, C bass entry at 24.76, G arrival at 25.50, ring-out"
+        }
+      ],
+      "accents_dst": [
+        6,
+        8.78,
+        14.58,
+        17.38,
+        20.2,
+        24.76,
+        25.5
+      ],
+      "accents_detail": [
+        {
+          "t": 6,
+          "what": "MAIN ENTRY: Dm tutti out of silence, brightening to 6.6"
+        },
+        {
+          "t": 8.78,
+          "what": "bar downbeat re-accent (+6 dB)"
+        },
+        {
+          "t": 14.58,
+          "what": "lift: Bb bar, bass accent (+6 dB)"
+        },
+        {
+          "t": 17.38,
+          "what": "G bar: swell to the peak at about 18.5 (vast reveal, 0.8 s late)"
+        },
+        {
+          "t": 20.2,
+          "what": "F bar: second peak with high melody"
+        },
+        {
+          "t": 24.76,
+          "what": "C bass entry (crescendo into the final arrival)"
+        },
+        {
+          "t": 25.5,
+          "what": "FINAL ARRIVAL: big warm G chord, natural decay"
+        }
+      ],
+      "sections_dst": [
+        {
+          "start": 0,
+          "end": 0.5,
+          "label": "silence"
+        },
+        {
+          "start": 0.5,
+          "end": 4.65,
+          "label": "crystalline sustained pad (-40 dB), first tone at 0.5"
+        },
+        {
+          "start": 4.65,
+          "end": 5.2,
+          "label": "small swell, then fade (hard drop)"
+        },
+        {
+          "start": 5.2,
+          "end": 5.96,
+          "label": "digital silence"
+        },
+        {
+          "start": 6,
+          "end": 8.78,
+          "label": "MAIN ENTRY: Dm tutti blooms, legato 85 BPM pulse begins"
+        },
+        {
+          "start": 8.78,
+          "end": 14.58,
+          "label": "pulse continues and thins gradually (-14 to -21 dB); thinnest 12.75-14.5"
+        },
+        {
+          "start": 14.58,
+          "end": 17.38,
+          "label": "lift (Bb bar)"
+        },
+        {
+          "start": 17.38,
+          "end": 20.2,
+          "label": "swell to the peak (G bar, peak about 18.5)"
+        },
+        {
+          "start": 20.2,
+          "end": 22.75,
+          "label": "second peak (F bar, high melody)"
+        },
+        {
+          "start": 22.75,
+          "end": 24.76,
+          "label": "descent: rhythm stops, pad (-29 dB)"
+        },
+        {
+          "start": 24.76,
+          "end": 25.5,
+          "label": "C bass entry and crescendo"
+        },
+        {
+          "start": 25.5,
+          "end": 29,
+          "label": "FINAL ARRIVAL: G chord, natural ring-out (-13 to -23 dB)"
+        },
+        {
+          "start": 29,
+          "end": 30,
+          "label": "quarter-sine fade to silence"
+        }
+      ],
+      "notes": "Backup edit with the cleanest structure after edit 1: 3 segments, one splice into silence and one harmonically matched F-to-F crossfade, no stretch. The 6.00 entry and the 25.50 arrival are real source events, measured on the render and visible in the spectrograms. Weaknesses: the style is hopeful orchestral pop rather than Hisaishi-like; there is no distinct 3.0 motif (the pad is static); the 6.00 event is a big tutti entry rather than a percussive hit; energy from 7.6 is a moderate legato pulse, not a fast chase; the lift lands at 14.58 instead of 12.2; the descent starts early, at 22.75, as an abrupt drop to a pad (about -14 dB over a 250 ms crossfade); the final chord is a bright G arrival (open, not the main section's tonic) and only about +4 to +6 dB over the C crescendo before it. Nobody has listened to the edit yet."
+    }
+  ],
+  "runner_up": {
+    "source_file": "music_b/oga_emergence_dubruiel.wav",
+    "license": "CC-BY 4.0 (attribution required)",
+    "why_not_picked": "Best pure mood match (strings, horns and piano wonder; lossless), but 6 segments with 5 unverified legato crossfades. A render plus spectrogram showed a dense, continuous texture from 6 to 28 with no distinct event at 25.5: the resolution is only a +4 dB minor-plagal swell peaking at about 26.0. There is no ostinato for 7.6, and it is CC-BY rather than no-attribution."
+  },
+  "excluded": "Emotional Epic, Fantasy Magic and Wonders of the Earth are Content ID registered. Overture and Fanfare is a brassy fanfare from a lossy preview, with a soft, short final chord. A New Life resolves at 24.75 inside a decrescendo. Reunited has a drum kit and a bittersweet iv ending. Cinematic Orchestral Instrumental 09 has no delicate material and a deceptive Ab at 25.68. Blooming Spring has little dynamic range and needs a 1.8% stretch.",
+  "verification_files": {}
+}

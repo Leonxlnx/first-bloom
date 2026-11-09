@@ -1,0 +1,10 @@
+node_modules/
+# rendered frames and outputs: the films are attached to the GitHub release
+frames/
+out/
+# baked world data, rebuilt by bake.mjs + bake_info2.mjs
+data/
+# library audio is not redistributed; audio/fetch_audio.mjs downloads it from the sources
+audio/**/*.mp3
+audio/**/*.wav
+audio/**/*.ogg

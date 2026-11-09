@@ -1,0 +1,122 @@
+# FIRST BLOOM: audio credits
+
+## Music
+- **The Light Between Moments | Dreamy Cinematic Instrumental** by MoonpetalMedia, https://pixabay.com/music/orchestral-the-light-between-moments-dreamy-cinematic-instrumental-588189/
+  - Licence: Pixabay Content License (https://pixabay.com/service/license-summary/) - free for commercial and non-commercial use in videos, no attribution required, no payment
+  - Edited to 30 s by splicing sections of the original track; there is no time-stretch or pitch-shift.
+
+## Sound effects
+- `wind_winter_bare_trees_kyles_fs637566.mp3`: forest light wind through bare trees winter GREAT FOR FALLING SNOW by kyles, https://freesound.org/people/kyles/sounds/637566/
+  - Licence: CC0 1.0 Universal (Public Domain Dedication) - https://creativecommons.org/publicdomain/zero/1.0/
+  - Attribution: None required (CC0). Optional credit: "forest light wind through bare trees winter GREAT FOR FALLING SNOW" by kyles (freesound.org/s/637566), CC0.
+- `ice_creak_fracture_growing_vrymaa_fs735401.mp3`: Ice - Fracture, roots or growing plants by Vrymaa, https://freesound.org/people/Vrymaa/sounds/735401/
+  - Licence: CC0 1.0 Universal (Public Domain Dedication) - https://creativecommons.org/publicdomain/zero/1.0/
+  - Attribution: None required (CC0). Optional credit: "Ice - Fracture, roots or growing plants" by Vrymaa (freesound.org/s/735401), CC0.
+- `shimmer_mixkit_870_sparkling_fairy_glow.mp3`: Sparkling fairy glow by Mixkit, https://mixkit.co/free-sound-effects/fairy/
+  - Licence: Mixkit Sound Effects Free License (free for commercial and non-commercial use, no attribution required; https://mixkit.co/license/#sfxFree)
+  - Attribution: "Sparkling fairy glow" - Mixkit (mixkit.co), Mixkit Sound Effects Free License (attribution not required)
+- `icicle_drips_morning_birds_fs805664.mp3`: Icicle Drips and Morning Birds by BenHarmSound, https://freesound.org/people/BenHarmSound/sounds/805664/
+  - Licence: CC0 1.0 Universal (Public Domain Dedication) - https://creativecommons.org/publicdomain/zero/1.0/
+  - Attribution: None required (CC0). Optional credit: "Icicle Drips and Morning Birds" by BenHarmSound (freesound.org/s/805664), CC0.
+- `riser_fs_425463_china_cymbal_swell_reversed.mp3`: 18'' Sabian china swell short reversed.wav by trivialAccapella, https://freesound.org/people/trivialAccapella/sounds/425463/
+  - Licence: CC0 1.0 Universal (Public Domain Dedication)
+  - Attribution: "18'' Sabian china swell short reversed.wav" by trivialAccapella (freesound.org/s/425463/), CC0 1.0 - attribution not required
+- `boom_fs_560156_soft_cinematic_impact.mp3`: Soft Cinematic Impact by Rizzard, https://freesound.org/people/Rizzard/sounds/560156/
+  - Licence: CC0 1.0 Universal (Public Domain Dedication)
+  - Attribution: "Soft Cinematic Impact" by Rizzard (freesound.org/s/560156/), CC0 1.0 - attribution not required
+- `subdrop_fs_346316_ramons_sub_drop.mp3`: Ramon's Sexy Sub Drop 6000 by IV_Studios_666, https://freesound.org/people/IV_Studios_666/sounds/346316/
+  - Licence: CC0 1.0 Universal (Public Domain Dedication)
+  - Attribution: "Ramon's Sexy Sub Drop 6000" by IV_Studios_666 (freesound.org/s/346316/), CC0 1.0 - attribution not required
+- `bloom_mixkit_3082_magic_sparkle_poof_hit.mp3`: Magic sparkle poof hit by Mixkit, https://mixkit.co/free-sound-effects/magic/
+  - Licence: Mixkit Sound Effects Free License (free for commercial and non-commercial use, no attribution required; https://mixkit.co/license/#sfxFree)
+  - Attribution: "Magic sparkle poof hit" - Mixkit (mixkit.co), Mixkit Sound Effects Free License (attribution not required)
+- `shimmer_fs_632344_shimmer_adh_dreaming.mp3`: Shimmer by adh.dreaming, https://freesound.org/people/adh.dreaming/sounds/632344/
+  - Licence: CC0 1.0 Universal (Public Domain Dedication)
+  - Attribution: "Shimmer" by adh.dreaming (freesound.org/s/632344/), CC0 1.0 - attribution not required
+- `whoosh_mixkit_167_long_sweeping_air_swoosh.mp3`: Long sweeping air swoosh by Mixkit, https://mixkit.co/free-sound-effects/swoosh/
+  - Licence: Mixkit Sound Effects Free License (free for commercial and non-commercial use, no attribution required; https://mixkit.co/license/#sfxFree)
+  - Attribution: "Long sweeping air swoosh" - Mixkit (mixkit.co), Mixkit Sound Effects Free License (attribution not required)
+- `whoosh_mixkit_1469_flying_fast_swoosh.mp3`: Flying fast swoosh by Mixkit, https://mixkit.co/free-sound-effects/swoosh/
+  - Licence: Mixkit Sound Effects Free License (free for commercial and non-commercial use, no attribution required; https://mixkit.co/license/#sfxFree)
+  - Attribution: "Flying fast swoosh" - Mixkit (mixkit.co), Mixkit Sound Effects Free License (attribution not required)
+- `meadow_wind_light_mixkit1166.mp3`: Meadow wind light by Mixkit (Envato), https://mixkit.co/free-sound-effects/meadow/
+  - Licence: Mixkit Sound Effects Free License - https://mixkit.co/license/#sfxFree (free for commercial and non-commercial use inside end products such as films; no attribution required; may not be redistributed on its own)
+  - Attribution: None required. Optional credit: "Meadow wind light" - Mixkit (mixkit.co), Mixkit Sound Effects Free License.
+- `bloom_fs_648958_plant_growing_ienba.mp3`: Plant Growing by IENBA, https://freesound.org/people/IENBA/sounds/648958/
+  - Licence: CC0 1.0 Universal (Public Domain Dedication)
+  - Attribution: "Plant Growing" by IENBA (freesound.org/s/648958/), CC0 1.0 - attribution not required
+- `shimmer_mixkit_2352_magic_glitter_particles.mp3`: Magic glitter or particles by Mixkit, https://mixkit.co/free-sound-effects/magic/
+  - Licence: Mixkit Sound Effects Free License (free for commercial and non-commercial use, no attribution required; https://mixkit.co/license/#sfxFree)
+  - Attribution: "Magic glitter or particles" - Mixkit (mixkit.co), Mixkit Sound Effects Free License (attribution not required)
+- `birds_taking_off_fs499679.mp3`: Birds taking off fly.mp3 by Hope-Sounds, https://freesound.org/people/Hope-Sounds/sounds/499679/
+  - Licence: CC0 1.0 Universal (Public Domain Dedication) - https://creativecommons.org/publicdomain/zero/1.0/
+  - Attribution: None required (CC0). Optional credit: "Birds taking off fly.mp3" by Hope-Sounds (freesound.org/s/499679), CC0.
+- `bird_flutter_small_mixkit2694.mp3`: Small bird flutter by Mixkit (Envato), https://mixkit.co/free-sound-effects/flutter/
+  - Licence: Mixkit Sound Effects Free License - https://mixkit.co/license/#sfxFree (free for commercial and non-commercial use inside end products such as films; no attribution required; may not be redistributed on its own)
+  - Attribution: None required. Optional credit: "Small bird flutter" - Mixkit (mixkit.co), Mixkit Sound Effects Free License.
+- `brook_gurgling_garuda_fs639128.mp3`: natural brook gurgling by Garuda1982, https://freesound.org/people/Garuda1982/sounds/639128/
+  - Licence: CC0 1.0 Universal (Public Domain Dedication) - https://creativecommons.org/publicdomain/zero/1.0/
+  - Attribution: None required (CC0). Optional credit: "natural brook gurgling" by Garuda1982 (freesound.org/s/639128), CC0.
+- `ice_lake_fractures_vrymaa_fs737896.mp3`: Ice - Lake fractures by Vrymaa, https://freesound.org/people/Vrymaa/sounds/737896/
+  - Licence: CC0 1.0 Universal (Public Domain Dedication) - https://creativecommons.org/publicdomain/zero/1.0/
+  - Attribution: None required (CC0). Optional credit: "Ice - Lake fractures" by Vrymaa (freesound.org/s/737896), CC0.
+- `ice_cracks_frozen_puddle_fs168712.mp3`: Ice Cracks by karlis.stigis, https://freesound.org/people/karlis.stigis/sounds/168712/
+  - Licence: CC0 1.0 Universal (Public Domain Dedication) - https://creativecommons.org/publicdomain/zero/1.0/
+  - Attribution: None required (CC0). Optional credit: "Ice Cracks" by karlis.stigis (freesound.org/s/168712), CC0.
+- `bloom_mixkit_658_choir_magic_shine.mp3`: Choir magic shine by Mixkit, https://mixkit.co/free-sound-effects/magic/
+  - Licence: Mixkit Sound Effects Free License (free for commercial and non-commercial use, no attribution required; https://mixkit.co/license/#sfxFree)
+  - Attribution: "Choir magic shine" - Mixkit (mixkit.co), Mixkit Sound Effects Free License (attribution not required)
+- `meadow_spring_birdsong_soft_wind_fs847380.mp3`: Springtime birdsong with soft wind ambiance by rubindaniel, https://freesound.org/people/rubindaniel/sounds/847380/
+  - Licence: CC0 1.0 Universal (Public Domain Dedication) - https://creativecommons.org/publicdomain/zero/1.0/
+  - Attribution: None required (CC0). Optional credit: "Springtime birdsong with soft wind ambiance" by rubindaniel (freesound.org/s/847380), CC0.
+- `bees_buzzing_lavender_fs528935.mp3`: Bees buzzing 1 by fthgurdy, https://freesound.org/people/fthgurdy/sounds/528935/
+  - Licence: CC0 1.0 Universal (Public Domain Dedication) - https://creativecommons.org/publicdomain/zero/1.0/
+  - Attribution: None required (CC0). Optional credit: "Bees buzzing 1" by fthgurdy (freesound.org/s/528935), CC0.
+- `whoosh_mixkit_2607_fast_air_woosh.mp3`: Fast air woosh by Mixkit, https://mixkit.co/free-sound-effects/wind/
+  - Licence: Mixkit Sound Effects Free License (free for commercial and non-commercial use, no attribution required; https://mixkit.co/license/#sfxFree)
+  - Attribution: "Fast air woosh" - Mixkit (mixkit.co), Mixkit Sound Effects Free License (attribution not required)
+- `leaves_trees_rustling_wind_fs523389.mp3`: Forest, close up of trees rustling in the wind.wav by Anya_Media, https://freesound.org/people/Anya_Media/sounds/523389/
+  - Licence: CC0 1.0 Universal (Public Domain Dedication) - https://creativecommons.org/publicdomain/zero/1.0/
+  - Attribution: None required (CC0). Optional credit: "Forest, close up of trees rustling in the wind.wav" by Anya_Media (freesound.org/s/523389), CC0.
+- `boom_mixkit_781_cinematic_impact_waves.mp3`: Cinematic impact waves by Mixkit, https://mixkit.co/free-sound-effects/impact/
+  - Licence: Mixkit Sound Effects Free License (free for commercial and non-commercial use, no attribution required; https://mixkit.co/license/#sfxFree)
+  - Attribution: "Cinematic impact waves" - Mixkit (mixkit.co), Mixkit Sound Effects Free License (attribution not required)
+- `wind_mixkit_1168_woosh_wind.mp3`: Woosh wind by Mixkit, https://mixkit.co/free-sound-effects/transition/
+  - Licence: Mixkit Sound Effects Free License (free for commercial and non-commercial use, no attribution required; https://mixkit.co/license/#sfxFree)
+  - Attribution: "Woosh wind" - Mixkit (mixkit.co), Mixkit Sound Effects Free License (attribution not required)
+- `riser_mixkit_784_reverse_cinematic_impact_trailer.mp3`: Reverse cinematic impact trailer by Mixkit, https://mixkit.co/free-sound-effects/impact/
+  - Licence: Mixkit Sound Effects Free License (free for commercial and non-commercial use, no attribution required; https://mixkit.co/license/#sfxFree)
+  - Attribution: "Reverse cinematic impact trailer" - Mixkit (mixkit.co), Mixkit Sound Effects Free License (attribution not required)
+- `whoosh_mixkit_2604_deep_air_woosh.mp3`: Deep air woosh by Mixkit, https://mixkit.co/free-sound-effects/wind/
+  - Licence: Mixkit Sound Effects Free License (free for commercial and non-commercial use, no attribution required; https://mixkit.co/license/#sfxFree)
+  - Attribution: "Deep air woosh" - Mixkit (mixkit.co), Mixkit Sound Effects Free License (attribution not required)
+- `wind_mountain_top_mixkit1267.mp3`: Wind in the top of the mountain by Mixkit (Envato), https://mixkit.co/free-sound-effects/wind/
+  - Licence: Mixkit Sound Effects Free License - https://mixkit.co/license/#sfxFree (free for commercial and non-commercial use inside end products such as films; no attribution required; may not be redistributed on its own)
+  - Attribution: None required. Optional credit: "Wind in the top of the mountain" - Mixkit (mixkit.co), Mixkit Sound Effects Free License.
+- `river_water_flowing_mixkit2454.mp3`: River water flowing by Mixkit (Envato), https://mixkit.co/free-sound-effects/river/
+  - Licence: Mixkit Sound Effects Free License - https://mixkit.co/license/#sfxFree (free for commercial and non-commercial use inside end products such as films; no attribution required; may not be redistributed on its own)
+  - Attribution: None required. Optional credit: "River water flowing" - Mixkit (mixkit.co), Mixkit Sound Effects Free License.
+- `birds_flock_takeoff_pigeons_fs616623.mp3`: 121003 Pigeon flock fly away, wing flaps, Toronto.wav by TRP, https://freesound.org/people/TRP/sounds/616623/
+  - Licence: CC0 1.0 Universal (Public Domain Dedication) - https://creativecommons.org/publicdomain/zero/1.0/
+  - Attribution: None required (CC0). Optional credit: "121003 Pigeon flock fly away, wing flaps, Toronto.wav" by TRP (freesound.org/s/616623), CC0.
+- `boom_mixkit_788_big_cinematic_impact.mp3`: Big cinematic impact by Mixkit, https://mixkit.co/free-sound-effects/impact/
+  - Licence: Mixkit Sound Effects Free License (free for commercial and non-commercial use, no attribution required; https://mixkit.co/license/#sfxFree)
+  - Attribution: "Big cinematic impact" - Mixkit (mixkit.co), Mixkit Sound Effects Free License (attribution not required)
+- `subdrop_fs_856174_deep_sub_bass_rumble_drop.mp3`: Subterranean Deep Sub-Bass Rumble Drop by brktkrgll, https://freesound.org/people/brktkrgll/sounds/856174/
+  - Licence: CC0 1.0 Universal (Public Domain Dedication)
+  - Attribution: "Subterranean Deep Sub-Bass Rumble Drop" by brktkrgll (freesound.org/s/856174/), CC0 1.0 - attribution not required
+- `waterfall_in_woods_mixkit2517.mp3`: Waterfall in the woods by Mixkit (Envato), https://mixkit.co/free-sound-effects/waterfall/
+  - Licence: Mixkit Sound Effects Free License - https://mixkit.co/license/#sfxFree (free for commercial and non-commercial use inside end products such as films; no attribution required; may not be redistributed on its own)
+  - Attribution: None required. Optional credit: "Waterfall in the woods" - Mixkit (mixkit.co), Mixkit Sound Effects Free License.
+- `shimmer_mixkit_3108_crystal_chime.mp3`: Crystal chime by Mixkit, https://mixkit.co/free-sound-effects/chime/
+  - Licence: Mixkit Sound Effects Free License (free for commercial and non-commercial use, no attribution required; https://mixkit.co/license/#sfxFree)
+  - Attribution: "Crystal chime" - Mixkit (mixkit.co), Mixkit Sound Effects Free License (attribution not required)
+- `shimmer_mixkit_2350_magic_sparkle_whoosh.mp3`: Magic sparkle whoosh by Mixkit, https://mixkit.co/free-sound-effects/magic/
+  - Licence: Mixkit Sound Effects Free License (free for commercial and non-commercial use, no attribution required; https://mixkit.co/license/#sfxFree)
+  - Attribution: "Magic sparkle whoosh" - Mixkit (mixkit.co), Mixkit Sound Effects Free License (attribution not required)
+- `whoosh_mixkit_1167_swoosh_wind_passing.mp3`: Swoosh wind passing by Mixkit, https://mixkit.co/free-sound-effects/swoosh/
+  - Licence: Mixkit Sound Effects Free License (free for commercial and non-commercial use, no attribution required; https://mixkit.co/license/#sfxFree)
+  - Attribution: "Swoosh wind passing" - Mixkit (mixkit.co), Mixkit Sound Effects Free License (attribution not required)
+- `waterfall_distant_lookout_fs348827.mp3`: Distant Waterfall - From Lookout by Yoyodaman234, https://freesound.org/people/Yoyodaman234/sounds/348827/
+  - Licence: CC0 1.0 Universal (Public Domain Dedication) - https://creativecommons.org/publicdomain/zero/1.0/
+  - Attribution: None required (CC0). Optional credit: "Distant Waterfall - From Lookout" by Yoyodaman234 (freesound.org/s/348827), CC0.
